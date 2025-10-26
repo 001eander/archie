@@ -1,9 +1,9 @@
 /* CSS Custom Properties */
 :root {
   /* Light theme colors */
-  --color-primary: #dc143c;
-  --color-primary-hover: #b91c3c;
-  --color-border: #663399;
+  --color-primary: #1499dc;
+  --color-primary-hover: #1c46b9;
+  --color-border: #338599;
   --color-callout: #1e90ff;
   --color-text: #232333;
   --color-text-muted: #737373;
